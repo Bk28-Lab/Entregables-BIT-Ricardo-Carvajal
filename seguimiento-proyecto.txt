@@ -1,1 +1,8 @@
-Hola, este es mi proyecto para el control de datos de flota 
+Hola, este es mi proyecto para el control de datos de flota, también es mi proyecto para el bootcamp que estudio de data science, voy a ir subiendo aca mis avances.
+
+
+Lo primero que hice fue armar un Excel, con todos los datos de los móviles de los 3 patios, los cuales son Engativa, suba y conejera.
+
+
+Lo segundo que hice fue agregar casillas desplegables de si/no, también agregue una hoja de dasboard, para ver el avance que se lleva en los móviles.
+
